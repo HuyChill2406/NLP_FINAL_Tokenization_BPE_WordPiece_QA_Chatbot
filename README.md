@@ -1,6 +1,6 @@
 # NLP_FINAL_Tokenization_BPE_WordPiece_QA_Chatbot
 
-## 1) README.md
+## README.md
 
 # NLP Final Assignments: Tokenization (BPE/WordPiece) & Q&A Chatbot
 
