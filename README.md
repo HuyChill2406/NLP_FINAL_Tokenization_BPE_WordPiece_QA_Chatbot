@@ -163,11 +163,3 @@ nltk.download('stopwords')
   * Transformer encoder
   * Retrieval (semantic search) + reranking
   * Generative chatbot (Seq2Seq / LLM fine-tune)
-
----
-
-Nếu bạn muốn, mình có thể viết thêm:
-
-* **README bản đẹp hơn** (badges, mục lục, hình minh họa flow)
-* **Mục “Dataset format”** (mô tả schema chuẩn cho 2 file CSV)
-* **CV bullets** liên quan trực tiếp 2 task này để nộp intern NLP
